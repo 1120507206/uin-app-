@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uni-media-list-logo{ }\n.",[1],"uni-list-cell-hover{ }\n.",[1],"uni-media-list-text-bottom { padding-bottom: 0px; }\n.",[1],"uni-media-list{ height: 75px; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));
